@@ -16,7 +16,6 @@
 * [一篇关于 TypeScript 与 ReasonML 语言的对比分析文章](https://blog.dubenko.dev/typescript-vs-reason/)
 * [Static TypeScript:  STS ， TS 的子集，是 TS 语言在嵌入式编程上的尝试](https://www.microsoft.com/en-us/research/publication/static-typescript/)
 * [7 个实战项目助你编程技能进阶](https://robertheaton.com/2018/12/08/programming-projects-for-advanced-beginners/)
-  ![mosaic-me.png](https://cache.amap.com/ecology/tool/antmove/web/assets/qr/mosaic-me.png)
   * [Programming Projects for Advanced Beginners #1: ASCII art \| Robert Heaton](https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/)
   * [Programming Projects for Advanced Beginners #2: Game of Life \| Robert Heaton](https://robertheaton.com/2018/07/20/project-2-game-of-life/)
   * [Programming Projects for Advanced Beginners #3a: Tic-Tac-Toe AI \| Robert Heaton](https://robertheaton.com/2018/10/09/programming-projects-for-advanced-beginners-3-a/)
