@@ -20,6 +20,7 @@
   * [Programming Projects for Advanced Beginners #2: Game of Life \| Robert Heaton](https://robertheaton.com/2018/07/20/project-2-game-of-life/)
   * [Programming Projects for Advanced Beginners #3a: Tic-Tac-Toe AI \| Robert Heaton](https://robertheaton.com/2018/10/09/programming-projects-for-advanced-beginners-3-a/)
   * [Programming Projects for Advanced Beginners #4: Photomosaics \| Robert Heaton](https://robertheaton.com/2018/11/03/programming-project-4-photomosaics/)
+* [A quick look at WeChat's Mini Programs - DEV Community 👩‍💻👨‍💻](https://dev.to/tomayac/a-quick-look-at-wechat-s-mini-programs-1kba)
 * [Vue原理解析（八）：一起搞明白令人头疼的diff算法 - 掘金](https://juejin.im/post/5d596bc7e51d4561e0516aef)
 * [阻碍你使用 GraphQL 的十个问题 \| 咀嚼之味](https://jerryzou.com/posts/10-questions-about-graphql/)
 * [深入浅出 Webpack](https://mp.weixin.qq.com/s/mXrUXBTTwpc732tMgvL0sw)
