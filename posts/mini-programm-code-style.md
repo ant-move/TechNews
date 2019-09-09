@@ -1,8 +1,4 @@
 
-## Meta 
-* version： 1.0.0
-* 更新时间：2019-09-06
-
 # 跨平台小程序开发风格指南
 
 
@@ -472,3 +468,14 @@ var myGreatMixin = {
 问题在于，这种做法在很多简单的场景下可能会更方便。但请当心，不要为了一时方便 (少写代码) 而牺牲数据流向的简洁性 (易于理解)。
 
 > 注： 微信小程序中可通过 `relation` 功能获取父子组件，支付宝小程序可通过 `ref` 来获取，请谨慎使用。
+
+## 参考链接
+
+* [Style Guide — Vue.js](https://vuejs.org/v2/style-guide/index.html)
+* [微信小程序](https://developers.weixin.qq.com/miniprogram/dev/framework/)
+* [支付宝小程序](https://docs.alipay.com/mini/developer/getting-started)
+* [百度智能小程序](https://smartprogram.baidu.com/docs/develop/tutorial/codedir/)
+
+## 注 
+> * version： 1.0.1
+> * 更新时间：2019-09-09
